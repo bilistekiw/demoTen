@@ -6,7 +6,7 @@
 
 由于其他网盘不允许未登陆就传文件，所以我把GITHUB当成了网盘。
 
-对没用过Github的小伙伴小声说：按
+对没用过Github的小伙伴小声说：按Code>Download zip下载
 
 ## English Markdown
 
